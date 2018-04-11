@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Crazy Qwerty</string>
+    <string name="play">Play</string>
+    <string name="level_prompt">Choose a Level</string>
+    <string-array name="levels">
+        <item>None</item>
+        <item>Easy</item>
+        <item>Medium</item>
+        <item>Hard</item>
+        <item>Insane</item>
+    </string-array>
+</resources>
